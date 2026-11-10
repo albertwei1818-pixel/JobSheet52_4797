@@ -1,0 +1,21 @@
+# Hasil komplilasi .NET
+bin/
+obj/
+
+# Pengaturan lokal Visual Studio Code
+.vscode/
+
+# File sementara dan log
+*.log
+*.tmp
+*.temp
+
+# File otomatis sistem operasi
+Thumbs.db
+Dekstop.ini
+.DS_Store
+
+# File konfigurasi sensitif
+.env
+.env.*
+!.env.example

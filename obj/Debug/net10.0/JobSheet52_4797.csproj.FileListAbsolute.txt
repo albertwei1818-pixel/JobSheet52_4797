@@ -12,3 +12,4 @@ D:\DPK-PPLG\SemesterGanjil\Bab-05\JobSheet52_4797\obj\Debug\net10.0\refint\JobSh
 D:\DPK-PPLG\SemesterGanjil\Bab-05\JobSheet52_4797\obj\Debug\net10.0\JobSheet52_4797.pdb
 D:\DPK-PPLG\SemesterGanjil\Bab-05\JobSheet52_4797\obj\Debug\net10.0\JobSheet52_4797.genruntimeconfig.cache
 D:\DPK-PPLG\SemesterGanjil\Bab-05\JobSheet52_4797\obj\Debug\net10.0\ref\JobSheet52_4797.dll
+D:\DPK-PPLG\SemesterGanjil\Bab-05\JobSheet52_4797\obj\Debug\net10.0\JobSheet52_4797.sourcelink.json
