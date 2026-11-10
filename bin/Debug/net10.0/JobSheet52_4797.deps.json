@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "JobSheet52_4797/1.0.0": {
+        "runtime": {
+          "JobSheet52_4797.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JobSheet52_4797/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
